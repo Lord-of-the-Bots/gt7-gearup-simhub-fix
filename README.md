@@ -35,3 +35,22 @@ No MSFT_NetRoute objects found with property "AddressFamily" equal to "IPv4"
 It does not mean the PS5 address was not found. This script enumerates the route store before filtering the results, so an empty store is handled normally.
 
 If telemetry is still missing, check the console address, the selected local adapter, Windows Firewall rules for SimHub and UDP **33739/33740**, and other telemetry applications using the same ports.
+
+## Support
+
+You can support the project with a crypto donation:
+
+BTC (Bitcoin):
+1NbtPNkofnKZRjLpULRjhKuAtbh12DovC9
+
+USDT, TRX (TRC20):
+TUgM6hPokF1vPUW8CRp77CgvF3YroabwFP
+
+TON:
+UQBLdOWJeVeVg4b0-HkQGNVV8HG6-xWS7moZOUfNBz2-Jf3u
+
+ETH (ERC20):
+0x14bba7b8b76ea4743a202bdee2144e4d558ddf93
+
+LTC (Litecoin):
+LRRS5YBeqfkYpw2jC2bDAWgpcgm7Wpu6pM
